@@ -4,4 +4,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Try+to+find+something+cool+here)](https://git.io/typing-svg)
 
 
-[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/username) 
+[![codewars](https://www.codewars.com/users/Nshifter/badges/small)](https://www.codewars.com/users/Nshifter) 
